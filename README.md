@@ -1,5 +1,3 @@
-# 💬 Chatbot Anh Lập Trình
+# 💬 Chatbot Rang Tự Động
 
-Chương trình chatbot được tạo ra từ Anh Lập Trình (https://pyan.vn/)
-
-
+Chương trình chatbot được tạo ra từ Rang Tự Động (https://varoasterycoffee.com/)
